@@ -1,6 +1,3 @@
-sadasdsa
-
-
 function calctax(salary) {
   
   tax;
